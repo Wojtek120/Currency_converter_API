@@ -1,0 +1,1 @@
+insert into currencyconversion.currencytable values (CURRENT TIMESTAMP, 2, 'USD', 2, 'USD')
